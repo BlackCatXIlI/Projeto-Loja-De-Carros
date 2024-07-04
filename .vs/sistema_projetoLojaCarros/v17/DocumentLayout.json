@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|c:\\users\\administrador\\desktop\\projeto do city\\sistema_projetolojacarros\\alterv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:alterv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\alterv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:alterv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B94312-4A02-4EB6-B951-C5460359C7B7}|sistema_projetoLojaCarros.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAnwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:22:21.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:21:53.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlterV.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\AlterV.cs",
+              "RelativeDocumentMoniker": "AlterV.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\AlterV.cs",
+              "RelativeToolTip": "AlterV.cs",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAIwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:57:26.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlterV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\AlterV.cs",
+              "RelativeDocumentMoniker": "AlterV.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\AlterV.cs [Design]",
+              "RelativeToolTip": "AlterV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:57:22.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAANAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:55:07.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Consulta.cs",
+              "RelativeDocumentMoniker": "Consulta.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Consulta.cs",
+              "RelativeToolTip": "Consulta.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcCAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:55:08.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Veiculos.cs",
+              "RelativeDocumentMoniker": "Veiculos.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Veiculos.cs",
+              "RelativeToolTip": "Veiculos.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:55:09.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consulta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Consulta.cs",
+              "RelativeDocumentMoniker": "Consulta.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Consulta.cs [Design]",
+              "RelativeToolTip": "Consulta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:55:09.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Cliente.cs [Design]",
+              "RelativeToolTip": "Cliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:55:09.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Veiculos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Veiculos.cs",
+              "RelativeDocumentMoniker": "Veiculos.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\projeto do city\\sistema_projetoLojaCarros\\Veiculos.cs [Design]",
+              "RelativeToolTip": "Veiculos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:55:09.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

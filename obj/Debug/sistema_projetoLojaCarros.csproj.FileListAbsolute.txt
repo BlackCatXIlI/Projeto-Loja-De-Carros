@@ -1,0 +1,135 @@
+T:\2DS\sandyDS\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe.config
+T:\2DS\sandyDS\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe
+T:\2DS\sandyDS\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.pdb
+T:\2DS\sandyDS\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.AssemblyReference.cache
+T:\2DS\sandyDS\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.SuggestedBindingRedirects.cache
+T:\2DS\sandyDS\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Form1.resources
+T:\2DS\sandyDS\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Properties.Resources.resources
+T:\2DS\sandyDS\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.GenerateResource.cache
+T:\2DS\sandyDS\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.CoreCompileInputs.cache
+T:\2DS\sandyDS\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.exe
+T:\2DS\sandyDS\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.pdb
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe.config
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.pdb
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.AssemblyReference.cache
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.SuggestedBindingRedirects.cache
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Properties.Resources.resources
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.GenerateResource.cache
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.exe
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.pdb
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Loading.resources
+C:\Users\2ds\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Login.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe.config
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.pdb
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Login.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Loading.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Properties.Resources.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.exe
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.pdb
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\ZstdSharp.dll
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Menu.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.CopyComplete
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Cliente.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Consulta.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Veiculos.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Inicio.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe.manifest
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.application
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.exe.manifest
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.application
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.AlterC.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.AlterV.resources
+C:\Users\Administrador\Desktop\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe.config
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe.manifest
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.application
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.exe
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\sistema_projetoLojaCarros.pdb
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\ZstdSharp.dll
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.AlterC.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.AlterV.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Cliente.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Consulta.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Inicio.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Login.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Loading.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Menu.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Properties.Resources.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.Veiculos.resources
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.exe.manifest
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.application
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_.1360EC68.Up2Date
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.exe
+C:\Users\Administrador\Desktop\projeto do city\sistema_projetoLojaCarros\obj\Debug\sistema_projetoLojaCarros.pdb
